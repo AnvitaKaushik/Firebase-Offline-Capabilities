@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "847217202068",
+    "firebase_url": "https://fir-storage-fe884-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-storage-fe884",
+    "storage_bucket": "fir-storage-fe884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847217202068:android:657b53bfaaa1d84c447581",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHIDsvP9r5QmeYEhdRmn2oIRBvkwcgDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
